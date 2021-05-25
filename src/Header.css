@@ -15,6 +15,7 @@
     height: 25px;
     object-fit: contain;
     margin-left: 20px;
+   
     cursor: pointer;
 }
 .header__input{

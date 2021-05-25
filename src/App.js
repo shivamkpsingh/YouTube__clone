@@ -3,6 +3,7 @@ import './App.css'
 import Header from './Header'
 import Sidebar from './Sidebar'
 import Recommendedvideos from './Recommendedvideos'
+import {BrowserRouter as Router,Switch ,Route } from 'react-router-dom'
 
 const App = () => {
   return (
