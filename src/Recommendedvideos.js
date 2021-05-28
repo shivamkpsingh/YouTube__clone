@@ -13,7 +13,7 @@ const Recommendedvideos = () => {
                     timestamp="3 days ago"
                     channelImage="https://yt3.ggpht.com/ytc/AAUvwngXcU2LcXQqcPyZFVwF_sV2zjB04K5RVFGE7heEwc4=s68-c-k-c0x00ffffff-no-rj"
                     channel="sonny sangha"
-                    image="https://i.ytimg.com/an_webp/UaB_FtsdlYk/mqdefault_6s.webp?du=3000&sqp=CKHpsYUG&rs=AOn4CLArZxH3ZMags6Pf_wbrnfbzabc_LA"
+                    image="https://i.ytimg.com/an_webp/UaB_FtsdlYk/mqdefault_6s.webp?du=3000&sqp=CKnVwoUG&rs=AOn4CLBevalpjGGI3cSaP9YLJImGHO7XDw"
                 />
                 <VideoCard
                     title="4 Step to become a web developer in 2021"
@@ -21,7 +21,7 @@ const Recommendedvideos = () => {
                     timestamp="9 month ago"
                     channelImage="https://yt3.ggpht.com/ytc/AAUvwniwccxGvXvGzzwka5f73aPbmdxvEX4G_cUd7TEzkw=s68-c-k-c0x00ffffff-no-rj"
                     channel="Clever Programmer"
-                    image="https://i.ytimg.com/an_webp/F3ztn4H6Ftg/mqdefault_6s.webp?du=3000&sqp=CNDWsYUG&rs=AOn4CLDE0YtuPsAmm1KSDbF3qKhHt1rRyA"
+                    image="https://i.ytimg.com/an_webp/F3ztn4H6Ftg/mqdefault_6s.webp?du=3000&sqp=CMDRwoUG&rs=AOn4CLBW4-7dxUGy3USwEoJmbOOPqUpGVA"
                 />
 
                 <VideoCard
@@ -30,7 +30,7 @@ const Recommendedvideos = () => {
                     timestamp="2 year ago"
                     channelImage="https://yt3.ggpht.com/ytc/AAUvwngNQm1Iu8tC8edkP-TYjcqxb_A5wnWmryUGbVFoORU=s68-c-k-c0x00ffffff-no-rj"
                     channel="Sony SAB"
-                    image="https://i.ytimg.com/an_webp/WDrEsv-zQ-Q/mqdefault_6s_480x270.webp?du=3000&sqp=CIy9soUG&rs=AOn4CLBxl9lrf6Jc34L8iZkFazxN-C9_Yg"
+                    image="https://i.ytimg.com/an_webp/R3tR08Z9alU/mqdefault_6s.webp?du=3000&sqp=CIO6woUG&rs=AOn4CLBjH3_AWMuLG0o7qYM4CxR7aKfW-A"
                 />
                 <VideoCard
                     title="Learn React In One Video"
@@ -38,7 +38,7 @@ const Recommendedvideos = () => {
                     timestamp="4 month ago"
                     channelImage="https://yt3.ggpht.com/ytc/AAUvwnji7xGhOzrc9jiBDZPmQgtRh9hApuYYYTP68M1J1A=s68-c-k-c0x00ffffff-no-rj"
                     channel="Dipesh Malvia"
-                    image="https://i.ytimg.com/an_webp/0riHps91AzE/mqdefault_6s.webp?du=3000&sqp=CNDTsoUG&rs=AOn4CLCAYGbZxnAFI0dHCKLl3g94K20Vcg"
+                    image="https://i.ytimg.com/an_webp/0riHps91AzE/mqdefault_6s.webp?du=3000&sqp=CK23woUG&rs=AOn4CLDQuyN0KVFja5fRt-z8cBBkgs4lXw"
                 />
                 <VideoCard
                     title="4 Step to become a web developer in 2021"
@@ -46,7 +46,7 @@ const Recommendedvideos = () => {
                     timestamp="9 month ago"
                     channelImage="https://yt3.ggpht.com/ytc/AAUvwniwccxGvXvGzzwka5f73aPbmdxvEX4G_cUd7TEzkw=s68-c-k-c0x00ffffff-no-rj"
                     channel="Clever Programmer"
-                    image="https://i.ytimg.com/an_webp/F3ztn4H6Ftg/mqdefault_6s.webp?du=3000&sqp=CNDWsYUG&rs=AOn4CLDE0YtuPsAmm1KSDbF3qKhHt1rRyA"
+                    image="https://i.ytimg.com/an_webp/F3ztn4H6Ftg/mqdefault_6s.webp?du=3000&sqp=CMDRwoUG&rs=AOn4CLBW4-7dxUGy3USwEoJmbOOPqUpGVA"
                 />
                 <VideoCard
                     title="4 Step to become a web developer in 2021"
@@ -54,7 +54,7 @@ const Recommendedvideos = () => {
                     timestamp="9 month ago"
                     channelImage="https://yt3.ggpht.com/ytc/AAUvwniwccxGvXvGzzwka5f73aPbmdxvEX4G_cUd7TEzkw=s68-c-k-c0x00ffffff-no-rj"
                     channel="Clever Programmer"
-                    image="https://i.ytimg.com/an_webp/F3ztn4H6Ftg/mqdefault_6s.webp?du=3000&sqp=CNDWsYUG&rs=AOn4CLDE0YtuPsAmm1KSDbF3qKhHt1rRyA"
+                    image="https://i.ytimg.com/an_webp/F3ztn4H6Ftg/mqdefault_6s.webp?du=3000&sqp=CMDRwoUG&rs=AOn4CLBW4-7dxUGy3USwEoJmbOOPqUpGVA"
                 />
                 <VideoCard
                     title="Learn React In One Video"
@@ -62,7 +62,7 @@ const Recommendedvideos = () => {
                     timestamp="4 month ago"
                     channelImage="https://yt3.ggpht.com/ytc/AAUvwnji7xGhOzrc9jiBDZPmQgtRh9hApuYYYTP68M1J1A=s68-c-k-c0x00ffffff-no-rj"
                     channel="Dipesh Malvia"
-                    image="https://i.ytimg.com/an_webp/0riHps91AzE/mqdefault_6s.webp?du=3000&sqp=CNDTsoUG&rs=AOn4CLCAYGbZxnAFI0dHCKLl3g94K20Vcg"
+                    image="https://i.ytimg.com/an_webp/0riHps91AzE/mqdefault_6s.webp?du=3000&sqp=CK23woUG&rs=AOn4CLDQuyN0KVFja5fRt-z8cBBkgs4lXw"
                 />
                 <VideoCard
                     title="Taarak Mehta Ka Ooltah Chashmah Ep-2685"
@@ -70,7 +70,7 @@ const Recommendedvideos = () => {
                     timestamp="2 year ago"
                     channelImage="https://yt3.ggpht.com/ytc/AAUvwngNQm1Iu8tC8edkP-TYjcqxb_A5wnWmryUGbVFoORU=s68-c-k-c0x00ffffff-no-rj"
                     channel="Sony SAB"
-                    image="https://i.ytimg.com/an_webp/WDrEsv-zQ-Q/mqdefault_6s_480x270.webp?du=3000&sqp=CIy9soUG&rs=AOn4CLBxl9lrf6Jc34L8iZkFazxN-C9_Yg"
+                    image="https://i.ytimg.com/an_webp/R3tR08Z9alU/mqdefault_6s.webp?du=3000&sqp=CIO6woUG&rs=AOn4CLBjH3_AWMuLG0o7qYM4CxR7aKfW-A"
                 />
                 <VideoCard
                     title="Taarak Mehta Ka Ooltah Chashmah Ep-2685"
@@ -78,7 +78,7 @@ const Recommendedvideos = () => {
                     timestamp="2 year ago"
                     channelImage="https://yt3.ggpht.com/ytc/AAUvwngNQm1Iu8tC8edkP-TYjcqxb_A5wnWmryUGbVFoORU=s68-c-k-c0x00ffffff-no-rj"
                     channel="Sony SAB"
-                    image="https://i.ytimg.com/an_webp/WDrEsv-zQ-Q/mqdefault_6s_480x270.webp?du=3000&sqp=CIy9soUG&rs=AOn4CLBxl9lrf6Jc34L8iZkFazxN-C9_Yg"
+                    image="https://i.ytimg.com/an_webp/R3tR08Z9alU/mqdefault_6s.webp?du=3000&sqp=CIO6woUG&rs=AOn4CLBjH3_AWMuLG0o7qYM4CxR7aKfW-A"
                 />
             </div>
 
